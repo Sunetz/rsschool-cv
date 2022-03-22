@@ -20,7 +20,7 @@ Having become interested in programming and started writing simple programs and 
 * JavaScript Basics
 * React
 * VSCode, WebStorm
-* Git/GitHub
+* Git/GitHub\
 ***
 ## Code examples:
 "Mexican wave" (https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) be like:
@@ -44,7 +44,7 @@ function wave(str){
 * [freeCodeCamp](https://www.freecodecamp.org/)
 * [Modern JavaScript online tutorial](https://learn.javascript.ru/)
 * [Fullstack WEB Development Course](https://www.tel-ran.de/)
-* RS Schools Course «JavaScript/Front-end» (in progress)
+* RS Schools Course «JavaScript/Front-end» (in progress)\
 ***
 ## Language Skills
 
