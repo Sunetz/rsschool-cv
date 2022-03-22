@@ -1,5 +1,6 @@
 # ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Aleksandra Suntcova`
 Junior Front-End Developer
+
 ***
 ## Contact:
 
@@ -7,10 +8,12 @@ E-mail: asuntcova@yandex.ru
 
 
 Telegram: @ny_saneeek
+
 ***
 ## Briefly about myself:
 
 Having become interested in programming and started writing simple programs and solving simple algorithmic problems in Python on the codewars.com and having reached level 6, I learned about the java script language. And getting carried away with the layout at first, later I took a basic course in this language. Solving problems in Python gave me an understanding of some basic things that are usually studied at specialized universities, but which you don't think about, being far from the IT sphere. I also plunged into an incredibly supportive environment and realized that my desire to learn new things here, like nowhere else, can be fully satisfied with the benefit of others.
+
 ***
 ## Skills:
 * HTML5, CSS3
