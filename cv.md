@@ -34,6 +34,12 @@ Having become interested in programming and started writing simple programs and 
   return newArr
 }
 ```
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+## Courses
+* [freeCodeCamp](https://www.freecodecamp.org/)
+* [Modern JavaScript online tutorial](https://learn.javascript.ru/)
+* [Fullstack WEB Development Course](https://www.tel-ran.de/)
+
+## Foreign Languages
+
+* German - B1
+* English - B1
