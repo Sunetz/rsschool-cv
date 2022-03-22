@@ -3,10 +3,10 @@ Junior Front-End Developer
 ***
 ## Contact:
 
-asuntcova@yandex.ru
+E-mail: asuntcova@yandex.ru
 
 
-https://t.me/ny_saneeek
+Telegram: @ny_saneeek
 ***
 ## Briefly about myself:
 
@@ -22,18 +22,18 @@ Having become interested in programming and started writing simple programs and 
 ## Code examples:
 "Mexican wave" (https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) be like:
 ![mexican wave gif](https://c.tenor.com/qyLsxeDaauwAAAAC/busythings-mexican-wave.gif)
- ```function wave(str){
+``` 
+function wave(str){
  
-  let newArr = [];
-  
-  for (let i = 0; i < str.length; i++) {
-    let copy = str.split('');
-    if(copy[i] !== ' ') {
-    copy[i] = copy[i].toUpperCase()
-    newArr.push(copy.join(''))
-    }
+ let newArr = [];
+ for (let i = 0; i < str.length; i++) {
+  let copy = str.split('');
+  if(copy[i] !== ' ') {
+   copy[i] = copy[i].toUpperCase()
+   newArr.push(copy.join(''))
   }
-  return newArr
+ }
+ return newArr
 }
 ```
 ***
