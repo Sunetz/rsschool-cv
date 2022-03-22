@@ -21,6 +21,7 @@ Having become interested in programming and started writing simple programs and 
 * React
 * VSCode, WebStorm
 * Git/GitHub\
+
 ***
 ## Code examples:
 "Mexican wave" (https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) be like:
@@ -39,6 +40,7 @@ function wave(str){
  return newArr
 }
 ```
+\
 ***
 ## Courses
 * [freeCodeCamp](https://www.freecodecamp.org/)
