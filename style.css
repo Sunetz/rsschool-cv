@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+}
+.content{
+    width: 80%;
+    margin: 50px auto; 
+}
+h1{
+    padding-bottom: 1rem;
+}
