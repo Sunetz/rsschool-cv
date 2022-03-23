@@ -4,11 +4,16 @@
 }
 body{
     width: 100%;
+    font-family: 'Red Hat Mono', monospace;
 }
 .content{
-    width: 80%;
+    width: 400px;
     margin: 50px auto; 
 }
 h1{
     padding-bottom: 1rem;
+    color: yellowgreen
+}
+img{
+    width: 80%;
 }
