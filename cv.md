@@ -10,7 +10,7 @@ E-mail: asuntcova@yandex.ru
 Telegram: @ny_saneeek
 
 
-Github: (https://github.com/Sunetz)[https://github.com/Sunetz]
+Github: [https://github.com/Sunetz](https://github.com/Sunetz)
 
 ---
 ## Briefly about myself:
